@@ -4,18 +4,11 @@
 
 ---
 
-## About Us
-
-Lunetix Labs is an Australian technology company dedicated to bringing enterprise-level capability to small and medium businesses.  
-We design practical, high-performance systems that simplify operations — without the overhead, complexity, or cost of traditional enterprise software.
-
----
-
 ## Current Projects
 
-- **SalesMachina** – A next-generation CRM and operations platform built for small to mid-sized enterprises.  
-- **Manufacturing Integrations** – Connecting ERP, quoting, and production systems for full visibility and control.
-
+- **SalesMachina** - A next-generation CRM and operations platform built for small to mid-sized enterprises - coming soon.
+- **Sectioneer**   - Fast and accurate long products nesting. (1D nesting). 
+- **MeshMaster** - API Mesh and microservice orchestration. 
 ---
 
 <p align="center"><strong>Lunetix Labs — Modern software for real industries.</strong></p>
