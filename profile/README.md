@@ -8,7 +8,8 @@
 
 - **SalesMachina** - A next-generation CRM and operations platform built for small to mid-sized enterprises - coming soon.
 - **Sectioneer**   - Fast and accurate long products nesting. (1D nesting). 
-- **MeshMaster** - API Mesh and microservice orchestration. 
+- **MeshMaster** - API Mesh and microservice orchestration.
+- **QuoteSolids** - 3D File generator for quick quote 
 ---
 
 <p align="center"><strong>Lunetix Labs — Modern software for real industries.</strong></p>
